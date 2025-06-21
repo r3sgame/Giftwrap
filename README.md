@@ -4,7 +4,6 @@ Giftwrap is a Christmas-themed web-based board game. Compete with a friend or a 
 ## How to Play
 ![guide](https://github.com/user-attachments/assets/47260f2a-f0be-49a5-83d8-006634b89f81)
 - Take turns placing gifts on the board; CLICK on a space to place gifts.
-- You can also place gifts with the ARROW KEYS and ENTER.
 - Gifts must be placed adjacent to an existing gift.
 - When a gift is placed, all adjacent gifts switch player possession.
 - Gifts cannot be placed on ice blocks, and ice blocks cannot switch.
